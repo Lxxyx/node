@@ -211,6 +211,10 @@ ol.version-picker li:last-child a {
   background-color: #5a8147;
 }
 
+.module_stability {
+  vertical-align: middle;
+}
+
 .api_metadata {
   font-size: .85rem;
   margin-bottom: 1rem;
